@@ -1,4 +1,5 @@
 footer {
+<<<<<<< HEAD
     width: 100%;
     height: 60px;
     bottom: 0;
@@ -6,4 +7,16 @@ footer {
     flex: none;
     border-top: 1px solid #CCCCCC;
     background-color: white;
+=======
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    box-sizing: border-box;
+    position: absolute;
+>>>>>>> af34b39cbc9d3cc79409f0c99563c5000809226e
 }

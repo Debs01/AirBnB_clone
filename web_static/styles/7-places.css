@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .places { 
     max-width: 1000px;
     margin: 0px auto;
@@ -9,19 +10,39 @@
 .places h1 {
     width: 100%;
     padding-left: 22px;
+=======
+.places {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.places h1 {
+    font-size: 30px;
+    width: 100%;
+    margin-left: 20px;
+>>>>>>> af34b39cbc9d3cc79409f0c99563c5000809226e
 }
 
 .places article {
     width: 390px;
     padding: 20px;
     margin: 20px;
+<<<<<<< HEAD
     border: 1px solid red;
+=======
+    border: 1px solid #FF5A5F;
+>>>>>>> af34b39cbc9d3cc79409f0c99563c5000809226e
     border-radius: 4px;
     display: flex;
     justify-content: center;
 }
 
 .places article h2 {
+<<<<<<< HEAD
 
+=======
+>>>>>>> af34b39cbc9d3cc79409f0c99563c5000809226e
     font-size: 30px;
 }

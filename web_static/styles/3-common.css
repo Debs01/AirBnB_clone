@@ -1,4 +1,5 @@
 html, body {
+<<<<<<< HEAD
     height: 100%;
 }
 
@@ -22,3 +23,17 @@ p {
 div {
     flex: 1 0 auto;
 }
+=======
+    min-height: 100vh;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+>>>>>>> af34b39cbc9d3cc79409f0c99563c5000809226e

@@ -7,7 +7,7 @@
     <title>image</title>
 </head>
 <body>
-<img src = "image/hbnb.jpg?raw=true">
+<img src = "logo.png?raw=true">
     
 </body>
 </html>
